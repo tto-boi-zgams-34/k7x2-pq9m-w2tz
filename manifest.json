@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "launcherMinVersion": "1.0.0",
+  "launcherDownloadUrl": "",
+  "games": [
+    {
+      "id": "containment",
+      "name": "The Containment",
+      "description": "Beast vs Survivors — hack and escape the facility.",
+      "version": "1.1.0",
+      "downloadUrl": "https://github.com/tto-boi-zgams-34/k7x2-pq9m-w2tz/releases/download/containment-v1.1.0/The.Containment.v.1.1.0.zip",
+      "sha256": "",
+      "sizeBytes": 52992027,
+      "exe": "The Containment.exe",
+      "launchArgs": "",
+      "releaseDate": "2026-10",
+      "coverUrl": "https://raw.githubusercontent.com/tto-boi-zgams-34/k7x2-pq9m-w2tz/main/iconCovers/thecontainmentgameicon.png",
+      "changelog": "First release with important first update."
+    },
+    {
+      "id": "notuno",
+      "name": "Not Uno",
+      "description": "The classic card game; just with a different name.",
+      "version": "1.0.2",
+      "downloadUrl": "https://github.com/tto-boi-zgams-34/k7x2-pq9m-w2tz/releases/download/notuno-v1.0.2/Not.Uno.v.1.0.2.zip",
+      "sha256": "",
+      "sizeBytes": 51788498,
+      "exe": "Not Uno.exe",
+      "launchArgs": "",
+      "releaseDate": "2026-10",
+      "coverUrl": "https://raw.githubusercontent.com/tto-boi-zgams-34/k7x2-pq9m-w2tz/main/iconCovers/notunogameicon.png",
+      "changelog": "First release of the game."
+    }
+  ]
+}
