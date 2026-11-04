@@ -16,7 +16,7 @@
       "coverUrl": "https://raw.githubusercontent.com/tto-boi-zgams-34/k7x2-pq9m-w2tz/main/iconCovers/thecontainmentgameicon.png",
       "changelog": "Added power perks, updated the game graphics, and made some quality of life improvements.",
       "enabled": false,
-      "disabledMessage": "Game disabled!"
+      "disabledMessage": "Game disabled! FUCK YOU!"
     },
     {
       "id": "notuno",
@@ -32,7 +32,7 @@
       "coverUrl": "https://raw.githubusercontent.com/tto-boi-zgams-34/k7x2-pq9m-w2tz/main/iconCovers/notunogameicon.png",
       "changelog": "Updated game graphics, added game rooms, and made some quality of life improvements.",
       "enabled": false,
-      "disabledMessage": "Game disabled!"
+      "disabledMessage": "Game disabled! FUCK YOU!"
     },
     {
       "id": "amongus3d",
@@ -48,7 +48,7 @@
       "coverUrl": "https://raw.githubusercontent.com/tto-boi-zgams-34/k7x2-pq9m-w2tz/main/iconCovers/amongus3dicon.png",
       "changelog": "New shader, new main menu, and loads of bug fixes.",
       "enabled": false,
-      "disabledMessage": "Game disabled currently."
+      "disabledMessage": "Game disabled! FUCK YOU!"
     },
     {
       "id": "sneezesim",
@@ -80,7 +80,7 @@
       "coverUrl": "https://raw.githubusercontent.com/tto-boi-zgams-34/k7x2-pq9m-w2tz/main/iconCovers/kariomartgameicon.png",
       "changelog": "First version of Kario Mart.",
       "enabled": false,
-      "disabledMessage": "Game currently in development."
+      "disabledMessage": "Game disabled! FUCK YOU!"
     }
   ]
 }
